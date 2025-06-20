@@ -1,6 +1,6 @@
 Feature: US53 - Landing Page Design
   As a new user
-  I want a section with an explanatory video
+  I want a section with an informative video
   So that I can easily visualize how the app works
 
   Scenario 1: Viewing the explanatory video
